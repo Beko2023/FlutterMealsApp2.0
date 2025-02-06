@@ -1,4 +1,4 @@
-Functionality remains the same, the code has been simplified as we have exported all local state manipulation in screen widgets and data passing to the provider. 
+Functionality remains the same, the code has been simplified as we have exported all local state manipulation in screen widgets and data passing to the provider (Riverpod). 
 
 App maintains the same functionality;
 
